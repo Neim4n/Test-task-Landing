@@ -51,7 +51,7 @@ $section-bg-color: #fff;
 
     .list {
       display: grid;
-      grid-template-columns: repeat(auto-fill, 173px);
+      grid-template-columns: repeat(auto-fit, 173px);
       grid-column-gap: 84px;
       grid-row-gap: 60px;
       justify-content: center;
